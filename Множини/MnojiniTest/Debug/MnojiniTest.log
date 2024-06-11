@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  MnojiniTest.cpp
+C:\Users\user\source\Aoc\Множини\Множини\Header.h(59): warning C4715: 'Set::inSet': not all control paths return a value
+     Creating library C:\Users\user\source\Aoc\Множини\Debug\MnojiniTest.lib and object C:\Users\user\source\Aoc\Множини\Debug\MnojiniTest.exp
+  MnojiniTest.vcxproj -> C:\Users\user\source\Aoc\Множини\Debug\MnojiniTest.dll
